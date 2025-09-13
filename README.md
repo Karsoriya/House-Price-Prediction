@@ -6,3 +6,11 @@ Using popular Python libraries like NumPy, Pandas, Scikit-learn, Matplotlib, Sea
 # License
 
 This project is licensed under the MIT license.
+
+# Acknowledgments
+
+Special thanks to the following for helping me learn and complete this project:
+
+Coursera Machine Learning Specialization – for providing a strong foundation in machine learning concepts.
+
+IBM Machine Learning with Python course – for practical, hands-on experience in building models using Python.
