@@ -1,6 +1,7 @@
 # House-Price-Prediction
 ---
 The "House Price Prediction" project is all about estimating house prices using machine learning.
+
 This project uses Python tools like NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and XGBoost to clean the data, explore it, and build a model that can predict house prices.
 
 # License
